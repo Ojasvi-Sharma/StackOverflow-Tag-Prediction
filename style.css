@@ -1,0 +1,23 @@
+h3 {
+	color: #0000ff;
+}
+
+.container {
+	height: 100vh;
+	width: 200px;
+	background-color: #ccfcf1;
+}
+
+.parts {
+	padding-top: 5%;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+#partTwo, #partThree {
+	display: none;
+}
+
+.preds {
+	margin: 2%;
+}
